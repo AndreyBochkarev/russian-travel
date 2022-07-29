@@ -12,16 +12,12 @@
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
   .place {
-    margin-left: 48px;
-    margin-right: 48px;
     column-gap: 32px;
   }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .place {
-    margin-left: 24px;
-    margin-right: 24px;
     margin-bottom: 73px;
     column-gap: 28px;
   }
