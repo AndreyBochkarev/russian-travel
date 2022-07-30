@@ -1,3 +1,3 @@
 Путешествия по России
 
-https://github.com/AndreyBochkarev/russian-travel
+https://andreybochkarev.github.io/index.html
